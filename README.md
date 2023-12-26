@@ -1,7 +1,7 @@
 # IMDB Movie Analysis with Power BI
 
 ## Power BI Dashboard Link 
-https://drive.google.com/file/d/1RT1Yy_kASVoFZEoRJWZhzq9arLw4jfMx/view?usp=sharing
+https://drive.google.com/file/d/1dBSNHwfjQOpesroFxkUcCMUHwwNqQIDG/view?usp=sharing
 
 ## Problem Statement
 The dataset provided focused on IMDB Movies, aiming to understand the factors influencing a movie's success on IMDB, defined by high ratings. This analysis was crucial for producers, directors, and investors making informed decisions for future projects.
